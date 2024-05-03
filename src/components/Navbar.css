@@ -1,0 +1,23 @@
+/* Navbar.css */
+/* .navbar {
+    border-bottom: 3px solid #007bff;
+  } */
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-size: 1.1rem;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .nav-link:hover {
+    background-color: #0056b3;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #fff;
+  }
+  

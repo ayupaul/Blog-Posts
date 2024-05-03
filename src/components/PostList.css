@@ -1,0 +1,25 @@
+/* Add this to your custom CSS */
+.container {
+    margin-top: 20px;
+  }
+  
+  .table {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .table thead th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .table td,
+  .table th {
+    vertical-align: middle;
+  }
+
